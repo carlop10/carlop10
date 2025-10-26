@@ -1,4 +1,4 @@
-👋 Hola, soy Carlos Arturo López Manga
+👋 Hola, soy Carlos Arturo López
 
 🎓 Estudiante de Ingeniería de Sistemas enfocado en el desarrollo web.  
 💻 Actualmente profundizo en tecnologías backend y busco fortalecerme como desarrollador Full Stack.
@@ -17,22 +17,24 @@ He desarrollado aplicaciones de gestión interna, formularios con firmas digital
 
 Lenguajes y frameworks
 
-🧩 Laravel (fuerte actual)
-☕ Java (bases sólidas)
-🐍 Python y Django (aprendiendo activamente)
+🧩 Laravel (fuerte actual)  
+☕ Java (bases sólidas)  
+🐍 Python y Django (aprendiendo activamente)  
 🌐 HTML5, CSS3, JavaScript básico
 
 Bases de datos
 
-🗄️ MySQL
+🗄️ MySQL  
 🐘 PostgreSQL
 
 Otros conocimientos
 
-⚙️ Configuración de servidores Ubuntu para entornos web
-🔐 OAuth 2.0
-🔄 API REST (en aprendizaje)
-🧭 Control de versiones con Git y GitHub
+⚙️ Configuración de servidores Ubuntu para entornos web  
+☁️ Google Cloud Platform  
+🌩️ AWS (aprendiendo)
+🔐 OAuth 2.0  
+🔄 API REST (en aprendizaje)  
+🧭 Control de versiones con Git y GitHub  
 
 ---
 
