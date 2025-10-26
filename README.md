@@ -1,6 +1,6 @@
 👋 Hola, soy Carlos Arturo López Manga
 
-🎓 Estudiante de Ingeniería de Sistemas enfocado en el desarrollo web.
+🎓 Estudiante de Ingeniería de Sistemas enfocado en el desarrollo web.  
 💻 Actualmente profundizo en tecnologías backend y busco fortalecerme como desarrollador Full Stack.
 
 ---
