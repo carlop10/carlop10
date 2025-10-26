@@ -39,6 +39,7 @@ Otros conocimientos
 ---
 
 🚀 Proyectos destacados  
+
 🏢 Portal Corporativo
 
 Aplicación de autoservicio para empleados, orientada a la gestión administrativa interna.
@@ -55,11 +56,6 @@ Validaciones dinámicas
 ⚙️ Otros proyectos
 
 Sistemas de gestión de usuarios, productos y bases de datos para entornos académicos y personales.
-
----
-
-📊 Estadísticas
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=carlop10&show_icons=true&theme=tokyonight" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlop10&layout=compact&theme=tokyonight" height="160" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=carlop10&theme=tokyonight&margin-w=15&no-frame=true" /> </p>
 
 ---
 
