@@ -18,47 +18,36 @@ He desarrollado aplicaciones de gestión interna, formularios con firmas digital
 Lenguajes y frameworks
 
 🧩 Laravel (fuerte actual)
-
 ☕ Java (bases sólidas)
-
 🐍 Python y Django (aprendiendo activamente)
-
 🌐 HTML5, CSS3, JavaScript básico
 
 Bases de datos
 
 🗄️ MySQL
-
 🐘 PostgreSQL
 
 Otros conocimientos
 
 ⚙️ Configuración de servidores Ubuntu para entornos web
-
 🔐 OAuth 2.0
-
 🔄 API REST (en aprendizaje)
-
 🧭 Control de versiones con Git y GitHub
 
 ---
 
-🚀 Proyectos destacados
+🚀 Proyectos destacados  
 🏢 Portal Corporativo
 
 Aplicación de autoservicio para empleados, orientada a la gestión administrativa interna.
 Permite descargar formatos, solicitar préstamos, obtener certificados y más, centralizando procesos de la empresa.
-
 Desarrollada con enfoque en escalabilidad y seguridad en el manejo de datos.
 
 🧾 Formularios Digitales
 
 Aplicaciones personalizadas para captura de datos con:
-
 Firmas digitales
-
 Subida de imágenes y archivos a Google Drive
-
 Validaciones dinámicas
 
 ⚙️ Otros proyectos
